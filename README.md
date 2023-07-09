@@ -19,6 +19,12 @@ To install the application locally, click "install" from the website and follow 
 
 Type and edit text in the given numbered lines within the application. To trigger a store to the local database, click outside of the browser/application to remove focus from it. All changes store to localstorage as well. The application can continue to be used offline with data still being stored.
 
+## Collaborators
+* John Hornick
+* Alivia Nguyen
+* Josh Berger
+
+
 ## Questions
 
 Contact with questions/comments:
